@@ -1,0 +1,11 @@
+{
+  "name": "purge-css-demo",
+  "version": "1.0.0",
+  "description": "A demonstration project for PurgeCSS.",
+  "scripts": {
+    "start": "purgecss --css src/styles.css --content src/index.html --output output/"
+  },
+  "dependencies": {
+    "purgecss": "^6.0.0"
+  }
+}
