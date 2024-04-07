@@ -49,9 +49,9 @@ To get started with the demo, follow these steps:
 
 The repository is structured as follows:
 - `src/`: Contains your source files, including HTML and CSS.
-- `dist/`: Where the processed files are outputted, ready for production.
+- `output/`: Where the processed files are outputted, ready for production.
 
-PurgeCSS is configured to analyze the files in `src/` and output the optimized CSS to `dist/`. You can modify the configuration as needed for your project.
+PurgeCSS is configured to analyze the files in `src/` and output the optimized CSS to `output/`. You can modify the configuration as needed for your project.
 
 ## Configuration
 
