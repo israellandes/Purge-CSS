@@ -35,7 +35,6 @@ To get started with the demo, follow these steps:
 4. Install the necessary dependencies:
     Navigate to the npm directory and run the setup script:
     ```bash
-    cd npm
     ./setup.sh
     ```
 
